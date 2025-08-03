@@ -1,9 +1,8 @@
 # AI content lab
 
-![Image with a robot](https://github.com/tiagomonteiro0715/ai-content-lab/blob/main/undraw_artificial-intelligence_fuvd.png)
-
 A sophisticated multi-agent system that leverages the CrewAI framework to automatically generate high-quality, SEO-optimized articles on any given topic through collaborative AI agents.
 
+![Image with a robot](https://github.com/tiagomonteiro0715/ai-content-lab/blob/main/undraw_artificial-intelligence_fuvd.png)
 
 ## What this project does?
 
@@ -181,7 +180,7 @@ if __name__ == "__main__":
 You can chanhe the topic that you want the crew of agents to develop here:
 
 ```
-DEFAULT_TOPIC = "electronics applied to the automotive industry"
+DEFAULT_TOPIC = "XXXXXXXXXXX"
 ```
 
 
