@@ -277,8 +277,8 @@ def save_results(result, topic):
         raise
 
 
+
 if __name__ == "__main__":
-    # Default topic - can be modified or made configurable
     DEFAULT_TOPIC = "electronics applied to the automotive industry"
     
     print(" AI Editorial Crew System")
