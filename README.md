@@ -62,6 +62,9 @@ CrewAI Framework was chosen as the core technology because:
 
 ### [ Credits, Authors and acknowledgment for contributions ](#credits)
 
+### [ Licence ](#licence)
+
+
 ---
 
 <a name="how_to_install"></a>
@@ -211,5 +214,7 @@ Acknowledgments
 - [Python Community](https://www.python.org/): For the extensive libraries and tools that make this project possible
 
 
-# License
+<a name="licence">
+  
+## License
 This project is open source and available under the MIT License.
