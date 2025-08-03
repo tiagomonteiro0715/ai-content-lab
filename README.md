@@ -147,6 +147,13 @@ os.environ["OPENAI_API_KEY"] = openai.api_key
 os.environ["OPENAI_MODEL_NAME"] = "gpt-4.1-nano-2025-04-14"
 ```
 
+#### Where do I find my OpenAI API Key?
+
+Here is some help:
+
+[Link](https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key)
+
+
 #### How to write an article on XXXXXXXXXXX topic?
 
 In the part of the code:
