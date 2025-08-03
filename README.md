@@ -1,5 +1,7 @@
 # AI content lab
 
+![Image with a robot](https://github.com/tiagomonteiro0715/ai-content-lab/blob/main/undraw_artificial-intelligence_fuvd.png)
+
 A sophisticated multi-agent system that leverages the CrewAI framework to automatically generate high-quality, SEO-optimized articles on any given topic through collaborative AI agents.
 
 
